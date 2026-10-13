@@ -1,13 +1,5 @@
 # Campus Lost & Found Portal
 
-**Course:** ISWE407P - UI/UX Design Project  
-**Team Members:**  
-- Sangavi R (23MIS0248)  
-- Preethikshabala V (23MIS0085)  
-- Prethika D (23MIS0301)  
-
----
-
 ## What's New in this Version
 
 1. **Zero Dummy Data (Real-Time Testing)**:
